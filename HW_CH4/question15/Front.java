@@ -1,6 +1,4 @@
 /* imports */
-package question15;
-
 import static java.lang.Character.toString;
 
 import java.io.BufferedReader;
